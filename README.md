@@ -47,3 +47,7 @@ This is a simple machine learning project where I built a **House Price Predicti
 - Model was trained successfully and used to predict the house prices.
 - Also predicted the price of a new house using its features.
 - **Learned and applied key steps of a Machine Learning pipeline** with a real-world dataset.
+
+- # OUTPUT
+- ![Image](https://github.com/user-attachments/assets/4c82ed68-f5a8-47ea-a79e-9f076c9725d1)
+  ![Image](https://github.com/user-attachments/assets/ef0d9455-5219-4746-89df-dae8f1f2caee)
